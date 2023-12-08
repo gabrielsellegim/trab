@@ -1,0 +1,43 @@
+
+.img{
+width:40%;
+margin: 50px 400px 10px;
+}
+.le{
+    width: 50%;
+margin: 10px 400px;
+}
+.tu{
+    background-image: linear-gradient(#d83706, #3b7de0); 
+}
+.fe{
+
+width: 40%;
+margin: 40px 400px;
+}
+.r{
+display: inline-block;
+margin: 0px 70px;
+
+}
+.e{
+    text-align: center;
+}
+.y{
+    width: 40%;
+    margin: 20px 400px;
+}
+.w{
+ text-align: center;
+}
+.q{
+    width: 40%;
+    margin: 20px 400px;
+}
+.a{
+    text-align: center;
+}
+.t{
+ width: 40%;
+ margin: 20px 400px;
+}
